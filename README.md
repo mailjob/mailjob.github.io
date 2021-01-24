@@ -2,7 +2,7 @@
 
 ### 网址
 
-[https://www.mailjob.net/](https://www.mailjob.net/)
+[www.mailjob.net](https://www.mailjob.net)
 
 ### About
 

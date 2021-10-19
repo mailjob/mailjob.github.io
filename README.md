@@ -1,21 +1,17 @@
-# MailJob
+<h1 align="center">Hi 👋, Welcome to MailJob</h1>
 
-### 网址
+<h3 align="center"><a href='https://www.mailjob.net'>https://www.mailjob.net</a></h3>
 
-[https://www.mailjob.net](https://www.mailjob.net)
+## Label
 
-### About
+[![issues](	https://img.shields.io/github/issues/mailjob/mailjob.github.io)](https://github.com/mailjob/mailjob.github.io/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mailjob/mailjob.github.io)](https://github.com/mailjob/mailjob.github.io)
+[![GitHub stars](https://img.shields.io/github/stars/mailjob/mailjob.github.io)](https://github.com/mailjob/mailjob.github.io)
+[![GitHub license](https://img.shields.io/github/license/mailjob/mailjob.github.io)](https://github.com/mailjob/mailjob.github.io/blob/master/LICENSE)
 
-> MailJob独立邮箱
 
-### Share
 
-[![GitHub issues](https://img.shields.io/github/issues/mailjob/mailjob.github.io.svg?style=flat)](https://github.com/mailjob/mailjob.github.io/issues)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/mailjobblog/mailjob.github.io/blob/main/LICENSEE)
-[![](https://img.shields.io/github/stars/mailjob/mailjob.github.io.svg?style=social&label=Star)](https://github.com/mailjobblog/mailjob.github.io)
-[![](https://img.shields.io/github/forks/mailjob/mailjob.github.io.svg?style=social&label=Fork)](https://github.com/mailjobblog/mailjob.github.io)
-
-### License
+## License
 
 遵循 MIT 许可证。
 
